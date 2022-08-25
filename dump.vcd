@@ -1,0 +1,24 @@
+$date
+Thu Aug 25 10:46:05 2022
+$end
+$version
+Riviera-PRO Version 2022.04.117.8517
+$end
+$timescale
+1 ps
+$end
+
+$scope module testencoder $end
+$var wire 7 ! enc_ham_data [6:0] $end
+$var reg 4 " data [3:0] $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+bx !
+bx "
+$end
+#2000
+b1011 "
+b1010101 !
+#54000
